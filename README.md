@@ -128,4 +128,6 @@ In this example, React efficiently updates only the `<h1>` element instead of re
 
 ---
 ## 6. Learning Source
-I am currently learning React from this Udemy course, which has been instrumental in building my React knowledge and contributing to this project.
+### Learning Source  
+I am currently learning React from this Udemy course: [`https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING`](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=KEEPLEARNING)
+
