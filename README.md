@@ -127,3 +127,5 @@ function App() {
 In this example, React efficiently updates only the `<h1>` element instead of re-rendering the entire DOM.
 
 ---
+## 6. Learning Source
+I am currently learning React from this Udemy course, which has been instrumental in building my React knowledge and contributing to this project.
